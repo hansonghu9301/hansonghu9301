@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hansonghu9301
-- 👀 I’m interested in visual processing and industrial automation
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in visual processing and industrial automation.
+- 🌱 I’m currently learning Python & C++
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me ...
 
