@@ -2,7 +2,7 @@
 - 👀 I’m interested in visual processing and industrial automation.
 - 🌱 I’m currently learning Python & C++
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
+- 📫 If you are willing to communicate with me, you can reach me @ hansongh@usc.edu
 
 <!---
 hansonghu9301/hansonghu9301 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
